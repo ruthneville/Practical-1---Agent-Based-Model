@@ -3,11 +3,11 @@
 <h1> ReadMe </h1>
 
 <h2> Introduction </h2><br>
-A repository for code related to Practical 1 for the module GEOG5995M.
+A repository for code related to Practical 1 for the module GEOG5995M. The code is written using Python 3 in the IUD Spyder.
 
 <h2> Contents </h2>
 
-<p> This project contans two models and two associated agent frameworks. One model is successful in that it is able to produce an animation that models of the movement of the agent (sheep). The other model is an unsucessful attempt at the GUI practical.  </p>
+<p> This project contans two models, two associated agent frameworks and a file to run the environment. One model is successful in that it is able to produce an animation that models of the movement of the agent (sheep). The other model is an unsucessful attempt at the GUI practical.  </p>
 
 <h3> Final Successful Model </h3> 
 
@@ -24,3 +24,16 @@ A repository for code related to Practical 1 for the module GEOG5995M.
   <br>
   <li> <a href="https://github.com/ruthneville/Practical-1-Agent-Based-Model/blob/main/FinalPracticalAttempt(GUI).py"> FinalPracticalAttempt(GUI).py </a><br>
    Sets up and attempts to run the model but fails to produce an animation inside of a GUI. An error occurs at line 105 which states "local variable 'animation' is assigned to but never used".
+    
+<h3> a href="https://github.com/ruthneville/Practical-1-Agent-Based-Model/blob/main/in.txt"> File to Run the Environment </h3>
+
+<h2> How To Run and What to Expect </h2>
+<li> Copy the model code into one workbook in Spyder and the agent framework code into another, making sure that these are saved in the same directory.</li>
+<li> Save the in.txt file to the same area. </li>
+<li> Type "%matplot qt" in the console to ensure the animation will run in a pop out window as it may not run in the console.
+<li> At present the model is set up to have 20 agents(sheep) which move randomly within the environment (field), 'eating' as they go. The model is set to iteratate 100 times. This can be changed by the user is desired.</li>
+<li> Run the model, the ABM will be produced and it is expected that an animation of the agents (sheep) moving and eating the 100 x 100 environment (field) should appear. The agents (sheep) are marked by white hexagons with a black border. </li>
+
+<h3> License </h3>
+
+MIT license in repository.
