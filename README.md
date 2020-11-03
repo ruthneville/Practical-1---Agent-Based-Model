@@ -25,7 +25,7 @@ A repository for code related to Practical 1 for the module GEOG5995M. The code 
   <li> <a href="https://github.com/ruthneville/Practical-1-Agent-Based-Model/blob/main/FinalPracticalAttempt(GUI).py"> FinalPracticalAttempt(GUI).py </a><br>
    Sets up and attempts to run the model but fails to produce an animation inside of a GUI. An error occurs at line 105 which states "local variable 'animation' is assigned to but never used".
     
-<h3> a href="https://github.com/ruthneville/Practical-1-Agent-Based-Model/blob/main/in.txt"> File to Run the Environment </a> </h3>
+<h3> <a href="https://github.com/ruthneville/Practical-1-Agent-Based-Model/blob/main/in.txt"> File to Run the Environment </a> </h3>
 
 <h2> How To Run and What to Expect </h2>
 <li> Copy the model code into one workbook in Spyder and the agent framework code into another, making sure that these are saved in the same directory.</li>
