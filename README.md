@@ -34,6 +34,6 @@ A repository for code related to Practical 1 for the module GEOG5995M. The code 
 <li> At present the model is set up to have 20 agents(sheep) which move randomly within the environment (field), 'eating' as they go. The model is set to iteratate 100 times. This can be changed by the user is desired.</li>
 <li> Run the model, the ABM will be produced and it is expected that an animation of the agents (sheep) moving and eating the 100 x 100 environment (field) should appear. The agents (sheep) are marked by white hexagons with a black border. </li>
 
-<h3> License </h3>
+<h2> License </h2>
 
 MIT license in repository.
