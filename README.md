@@ -12,10 +12,15 @@ A repository for code related to Practical 1 for the module GEOG5995M.
 <h3> Final Successful Model </h3> 
 
   <li> <a href="https://github.com/ruthneville/Practical-1-Agent-Based-Model/blob/main/Agent%20Framework.py">  AgentFramework.Py </a> <br>
-  Defines the agent class that is used in the model.
+  Defines the Agent class that is used in the model.
   <br>
   <li> <a href="https://github.com/ruthneville/Practical-1-Agent-Based-Model/blob/main/Final%20Model%20-%20Animation%20Practical.py"> FinalModel - AnimationPractical.Py </a> <br>
    Sets up and runs the model and produces an animation of agent behaviour in the environment.<br>
 
+<h3> Attempt at GUI Practical </h3>
 
-
+  <li> <a href="https://github.com/ruthneville/Practical-1-Agent-Based-Model/blob/main/AgentFrameworkAttempt.py"> AgentFrameworkAttempt.py </a><br>
+  Defines the Agent class that is used in the model.
+  <br>
+  <li> <a href="https://github.com/ruthneville/Practical-1-Agent-Based-Model/blob/main/FinalPracticalAttempt(GUI).py"> FinalPracticalAttempt(GUI).py </a><br>
+   Sets up and attempts to run the model but fails to produce an animation inside of a GUI. An error occurs at line 105 which states "local variable 'animation' is assigned to but never used".
