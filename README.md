@@ -29,7 +29,7 @@ A repository for code related to Practical 1 for the module GEOG5995M. The code 
 
 <h2> How To Run and What to Expect </h2>
 <li> Copy the model code into one workbook in Spyder and the agent framework code into another, making sure that these are saved in the same directory.</li>
-<li> Save the in.txt file to the same area. </li>
+<li> Save the in.txt (environment) file to the same area. </li>
 <li> Type "%matplot qt" in the console to ensure the animation will run in a pop out window as it may not run in the console.
 <li> At present the model is set up to have 20 agents(sheep) which move randomly within the environment (field), 'eating' as they go. The model is set to iteratate 100 times. This can be changed by the user is desired.</li>
 <li> Run the model, the ABM will be produced and it is expected that an animation of the agents (sheep) moving and eating the 100 x 100 environment (field) should appear. The agents (sheep) are marked by white hexagons with a black border. </li>
