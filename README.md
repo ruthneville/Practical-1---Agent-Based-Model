@@ -16,7 +16,7 @@ A repository for code related to Practical 1 for the module GEOG5995M. The code 
   <li> <a href="https://github.com/ruthneville/Practical-1-Agent-Based-Model/blob/main/Agent%20Framework.py">  AgentFramework.Py </a> <br>
   Defines the Agent class that is used in the model.
   <br>
-  <li> <a href="https://github.com/ruthneville/Practical-1-Agent-Based-Model/blob/main/Final%20Model%20-%20Animation%20Practical.py"> FinalModel - AnimationPractical.Py </a> <br>
+  <li> <a href="https://github.com/ruthneville/Practical-1-Agent-Based-Model/blob/main/FinalModel%20-%20AnimationPractical.py"> FinalModel - AnimationPractical.Py </a> <br>
    Sets up and runs the model and produces an animation of agent behaviour in the environment.<br>
 
 <h3> Attempt at GUI Practical </h3>
